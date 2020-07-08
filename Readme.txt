@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Kelvin
-Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+## 制作の背景
+個人アプリを制作した際にポートフォリオサイトを作ろうと思い、bootstrapなら簡単に作れるのでは！？と思い制作しました。
+phpのコードもたまには見ると楽しいものですね
