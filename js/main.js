@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 20,
+      value: 30,
       color: "#1abc9c"
     },
     {
-      value: 80,
+      value: 70,
       color: "#ecf0f1"
     }
   ];
@@ -44,11 +44,11 @@ jQuery(document).ready(function( $ ) {
 
   // python Chart
   var doughnutData = [{
-    value: 50,
+    value: 35,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 65,
     color: "#ecf0f1"
   }
   ];
@@ -60,7 +60,7 @@ jQuery(document).ready(function( $ ) {
     color: "#1abc9c"
   },
   {
-    value: 20,
+    value: 40,
     color: "#ecf0f1"
   }
   ];
@@ -68,11 +68,11 @@ jQuery(document).ready(function( $ ) {
 
   // Ruby Chart
   var doughnutData = [{
-    value: 60,
+    value: 45,
     color: "#1abc9c"
   },
   {
-    value: 40,
+    value: 55,
     color: "#ecf0f1"
   }
   ];
@@ -80,11 +80,11 @@ jQuery(document).ready(function( $ ) {
 
   // Ruby on Rails Chart
   var doughnutData = [{
-    value: 60,
+    value: 50,
     color: "#1abc9c"
   },
   {
-    value: 40,
+    value: 50,
     color: "#ecf0f1"
   }
   ];
