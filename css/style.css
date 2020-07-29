@@ -394,3 +394,8 @@ sm {
 .me{
   padding: 0px;
 }
+
+video{
+  width: 350px;
+  height: 200px;
+}
